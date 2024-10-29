@@ -5,5 +5,5 @@ Key Features:
 
 Data preprocessing: Filling missing values, data type conversions, and formatting
 Visualizations: Missing data matrix, heatmaps, and bar charts for exploratory analysis
-Code is designed for use in Jupyter Notebooks or Google Colab
-Technologies Used: Python, Pandas, Matplotlib, Missingno
+Code is designed for use in Google Colab
+Technologies Used: Python, Libraries: Keras, Pandas, Matplotlib, Missingno
